@@ -1,3 +1,6 @@
+[![Quality Gate Status](https://sonarcloud.io/api/project_badges/measure?project=smithjunior_gitopsfc&metric=alert_status)](https://sonarcloud.io/summary/new_code?id=smithjunior_gitopsfc)
+[![Duplicated Lines (%)](https://sonarcloud.io/api/project_badges/measure?project=smithjunior_gitopsfc&metric=duplicated_lines_density)](https://sonarcloud.io/summary/new_code?id=smithjunior_gitopsfc)
+[![Code Smells](https://sonarcloud.io/api/project_badges/measure?project=smithjunior_gitopsfc&metric=code_smells)](https://sonarcloud.io/summary/new_code?id=smithjunior_gitopsfc)
 # O que é?
 
 É o processo de integrar modificacões do codebase de forma contínua e automatizada,
@@ -28,10 +31,6 @@ evitando assim erros humanos de verificacão, garantindo mais agilidade e segura
 - GitLab Pipelines / CI
 
 ## Dinâmica
-
-[![Quality Gate Status](https://sonarcloud.io/api/project_badges/measure?project=smithjunior_gitopsfc&metric=alert_status)](https://sonarcloud.io/summary/new_code?id=smithjunior_gitopsfc)
-[![Duplicated Lines (%)](https://sonarcloud.io/api/project_badges/measure?project=smithjunior_gitopsfc&metric=duplicated_lines_density)](https://sonarcloud.io/summary/new_code?id=smithjunior_gitopsfc)
-[![Code Smells](https://sonarcloud.io/api/project_badges/measure?project=smithjunior_gitopsfc&metric=code_smells)](https://sonarcloud.io/summary/new_code?id=smithjunior_gitopsfc)
 
 ### Workflow
 
